@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/film-online/static/css/main.41478a69.chunk.css",
+    "main.js": "/film-online/static/js/main.abf947ce.chunk.js",
+    "main.js.map": "/film-online/static/js/main.abf947ce.chunk.js.map",
+    "runtime-main.js": "/film-online/static/js/runtime-main.7d90da15.js",
+    "runtime-main.js.map": "/film-online/static/js/runtime-main.7d90da15.js.map",
+    "static/js/2.a64a0cd7.chunk.js": "/film-online/static/js/2.a64a0cd7.chunk.js",
+    "static/js/2.a64a0cd7.chunk.js.map": "/film-online/static/js/2.a64a0cd7.chunk.js.map",
+    "static/js/3.695b2bcb.chunk.js": "/film-online/static/js/3.695b2bcb.chunk.js",
+    "static/js/3.695b2bcb.chunk.js.map": "/film-online/static/js/3.695b2bcb.chunk.js.map",
+    "index.html": "/film-online/index.html",
+    "static/css/main.41478a69.chunk.css.map": "/film-online/static/css/main.41478a69.chunk.css.map",
+    "static/js/2.a64a0cd7.chunk.js.LICENSE.txt": "/film-online/static/js/2.a64a0cd7.chunk.js.LICENSE.txt",
+    "static/media/hero-area.4ede35f6.png": "/film-online/static/media/hero-area.4ede35f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d90da15.js",
+    "static/js/2.a64a0cd7.chunk.js",
+    "static/css/main.41478a69.chunk.css",
+    "static/js/main.abf947ce.chunk.js"
+  ]
+}
