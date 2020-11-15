@@ -1,4 +1,5 @@
 import Navbar from './components/common/Navbar/Navbar'
+import SlideShow from './components/SlideShow/SlideShow'
 import backgroundImg from './img/hero-area.png'
 import './App.css';
 
@@ -6,9 +7,8 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <div className="slide">
-        <img src={backgroundImg}/>
-      </div>
+      <SlideShow/>
+      <p>Home</p>
     </div>
   );
 }
